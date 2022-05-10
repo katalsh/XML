@@ -1,1 +1,24 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report_Desktop_calc_app>
+<ID>DCA1</ID>
+<Summary>The [8] disappears on the keypad after pressing it</Summary>
+<Description>The [8] disappears on the keypad after pressing it. Remains empty space between other buttons. The [8] returns only after restarting the application.</Description>
+<Steps_to_reproduce>
+    <Step1>Open the app by double-clicking on the exe.file calc.</Step1>
+    <Step2>Find the [8] on keypad.</Step2>
+    <Step3>Press [8]</Step3>
+ </Steps_to_reproduce>
+<Expected_result>
+    <Result1>The calculator app is open.</Result1>
+    <Result2>Found [8] on the keypad.</Result2>
+    <Result3>The [8] still on the place.</Result3>
+ </Expected_result> 
+<Actual_rsult>
+    <Result1>The calculator app is open.</Result1>
+    <Result2>Found [8] on the keypad.</Result2>
+    <Result3>The [8] disappeared.</Result3>
+ </Actual_rsult>              
+<Reprodusible>Always</Reprodusible>
+<Severity>Major</Severity>
+<Priority>High</Priority>
+</bug_report_Desktop_calc_app>
