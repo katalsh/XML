@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<root>
-<person>
- <FullName>Альшевская Екатерина Владиславовна</FullName>
- <Age>35</Age>
- <Pats>1</Pats>
- <FutureSalary>800$</FutureSalary>
-</person>
-</root>
