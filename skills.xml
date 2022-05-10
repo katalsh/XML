@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+  <Knowledge>
+	<topic1>Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC.</topic1>
+    <topic2>Что такое клиент-серверная архитектура</topic2>
+    <topic3>HTTP Методы запросов на сервер</topic3>
+    <topic4>Коды ответов HTTP сервера</topic4>
+    <topic5>Структуры HTTP запросов и ответов</topic5>
+	<topic6>Что такое JSON, XML. Их структура</topic6>
+    <topic7>Тестирование API через Postman (JS, автотесты API)</topic7>
+    <topic8>Снятие и чтение логов c внешнего сервера</topic8>
+    <topic9>Снифинг http web трафика через Charles и Fiddler</topic9>
+    <topic10>Dev Tools веб браузеров (Google Chrome, FireFox)</topic10>
+    <topic11>VPN. (Как работает, зачем нужен, как использовать, варианты инструментов)</topic11>
+    <topic12>Мобильное тестирование</topic12>
+    <topic13>Особенность iOS, Android, гайдлайны</topic13>
+    <topic14>Сборка iOS приложений на XCode. (ознакомление)</topic14>
+    <topic15>Сборка Android приложений на Android Studio</topic15>
+    <topic16>ADB (управление андройд девайсами)</topic16>
+    <topic17>Настройка прокси и vpn на iOS и Android</topic17>
+    <topic18>Перехват (сниффинг) мобильного трафика через Charles и Fiddler на iOS и Android</topic18>
+    <topic19>Командная строка (terminal) Linux (копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса)</topic19>
+    <topic20>Основы bash скриптинг, автоматизация рутинных задач на сервере</topic20>
+    <topic21>Доступ к удалённым серверам</topic21>
+    <topic22>Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)</topic22>
+    <topic23>База данных Postgres (установка, настройка и использование)</topic23>
+    <topic24>Нереляционная база данных Redis (установка, настройка и использование)</topic24>
+    <topic25>Нагрузочное тестирование в Jmeter</topic25>
+    <topic26>Методология разработки Scrum</topic26>
+    <topic27>Python. (Изучение основ. Создание клиент серверного приложения)</topic27>
+   </Knowledge>
+ </root>  
+
